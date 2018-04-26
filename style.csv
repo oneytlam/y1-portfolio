@@ -1,19 +1,18 @@
 h2{
-  font-family: cursive, sans-serif;
-  colour: #ccffff;
+ font-family: cursive, sans-serif;
+ colour: #ccffff;
 }
 
 h1{
-  font-family: cursive, sans-serif;
-  colour: #ccffff;
+ font-family: cursive, sans-serif;
+ colour: #ccffff;
 }
  
 p{
-font-family: Palatino, serif;
-colour: #ccffcc;
+ font-family: Palatino, serif;
+ colour: #ccffcc;
 }
 
 body  {
-    
-    background-color: #000066;
+ background-color: #000066;
 }
