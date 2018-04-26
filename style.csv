@@ -2,9 +2,14 @@ h2{
   font-family: cursive, sans-serif;
   colour: #ccffff;
 }
+
+h1{
+  font-family: cursive, sans-serif;
+  colour: #ccffff;
+}
  
 p{
-font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+font-family: Palatino, serif;
 colour: #ccffcc;
 }
 
